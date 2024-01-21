@@ -5,3 +5,5 @@ Commit firmado.
 Commit firmado también.
 
 Commit no firmado 2.
+
+Commit no firmado con la protección activada.
